@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👩‍💻 Sobre Amanda Sampaio
 
-<!--
-**Amanda-Sampaio/Amanda-Sampaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Amanda Sampaio, Analista de Testes de Software Pleno (QA), com sólida experiência em ambientes ágeis e foco na qualidade contínua de produtos digitais. Atuo no planejamento e execução de testes funcionais manuais, testes de API e na escrita de cenários de testes em Gherkin. Apaixonada por garantir a excelência dos sistemas, estou em constante evolução profissional e atualmente me preparando para a certificação CTFL.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Habilidades Técnicas
+
+- Testes Manuais Funcionais  
+- Testes de API (Postman, Insomnia)  
+- Escrita de cenários em Gherkin (BDD)  
+- Metodologias Ágeis (Scrum)  
+- Testes de Regressão e Validação  
+- Versionamento com Git e GitHub  
+- Jira e outras ferramentas de gestão de tarefas  
